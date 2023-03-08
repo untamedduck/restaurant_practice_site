@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurant_practice_site/static/css/main.59afe2a7.css",
-    "main.js": "/restaurant_practice_site/static/js/main.9e867639.js",
+    "main.js": "/restaurant_practice_site/static/js/main.e5bba162.js",
     "static/js/787.b5b94f76.chunk.js": "/restaurant_practice_site/static/js/787.b5b94f76.chunk.js",
     "static/media/vegan.jpg": "/restaurant_practice_site/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
     "static/media/pizza.jpeg": "/restaurant_practice_site/static/media/pizza.21a1098fa87e28d80f37.jpeg",
@@ -14,11 +14,11 @@
     "static/media/pedrotechspecial.jpg": "/restaurant_practice_site/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
     "index.html": "/restaurant_practice_site/index.html",
     "main.59afe2a7.css.map": "/restaurant_practice_site/static/css/main.59afe2a7.css.map",
-    "main.9e867639.js.map": "/restaurant_practice_site/static/js/main.9e867639.js.map",
+    "main.e5bba162.js.map": "/restaurant_practice_site/static/js/main.e5bba162.js.map",
     "787.b5b94f76.chunk.js.map": "/restaurant_practice_site/static/js/787.b5b94f76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59afe2a7.css",
-    "static/js/main.9e867639.js"
+    "static/js/main.e5bba162.js"
   ]
 }
